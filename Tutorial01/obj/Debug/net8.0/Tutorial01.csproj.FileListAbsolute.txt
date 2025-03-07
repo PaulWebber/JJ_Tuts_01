@@ -1,0 +1,14 @@
+C:\Users\notno\source\repos\Tutorial01\bin\Debug\net8.0\Tutorial01.exe
+C:\Users\notno\source\repos\Tutorial01\bin\Debug\net8.0\Tutorial01.deps.json
+C:\Users\notno\source\repos\Tutorial01\bin\Debug\net8.0\Tutorial01.runtimeconfig.json
+C:\Users\notno\source\repos\Tutorial01\bin\Debug\net8.0\Tutorial01.dll
+C:\Users\notno\source\repos\Tutorial01\bin\Debug\net8.0\Tutorial01.pdb
+C:\Users\notno\source\repos\Tutorial01\obj\Debug\net8.0\Tutorial01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\notno\source\repos\Tutorial01\obj\Debug\net8.0\Tutorial01.AssemblyInfoInputs.cache
+C:\Users\notno\source\repos\Tutorial01\obj\Debug\net8.0\Tutorial01.AssemblyInfo.cs
+C:\Users\notno\source\repos\Tutorial01\obj\Debug\net8.0\Tutorial01.csproj.CoreCompileInputs.cache
+C:\Users\notno\source\repos\Tutorial01\obj\Debug\net8.0\Tutorial01.dll
+C:\Users\notno\source\repos\Tutorial01\obj\Debug\net8.0\refint\Tutorial01.dll
+C:\Users\notno\source\repos\Tutorial01\obj\Debug\net8.0\Tutorial01.pdb
+C:\Users\notno\source\repos\Tutorial01\obj\Debug\net8.0\Tutorial01.genruntimeconfig.cache
+C:\Users\notno\source\repos\Tutorial01\obj\Debug\net8.0\ref\Tutorial01.dll
