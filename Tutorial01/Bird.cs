@@ -6,17 +6,17 @@ using System.Threading.Tasks;
 
 namespace Tutorial01
 {
-    public class Cow : Animal
+    public class Bird : Animal
     {
-        public override void Talk()
+        public virtual void Fly()
         {
-            Console.WriteLine("Moo");
-
+            Console.WriteLine("fly like a bird");
         }
 
         public override void Walk()
         {
-            Console.WriteLine("walks on four legs");
+            Console.WriteLine("walks like a bird");
         }
+
     }
 }

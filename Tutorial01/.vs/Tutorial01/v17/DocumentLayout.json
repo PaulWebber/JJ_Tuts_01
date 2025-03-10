@@ -1,22 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\notno\\source\\repos\\Tutorial01\\",
+  "WorkspaceRootPath": "D:\\gits\\JJ_Tuts_01\\Tutorial01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B25DDD1F-9D32-48A7-A664-05393FE52603}|Tutorial01.csproj|c:\\users\\notno\\source\\repos\\tutorial01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B25DDD1F-9D32-48A7-A664-05393FE52603}|Tutorial01.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B25DDD1F-9D32-48A7-A664-05393FE52603}|Tutorial01.csproj|d:\\gits\\jj_tuts_01\\tutorial01\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B25DDD1F-9D32-48A7-A664-05393FE52603}|Tutorial01.csproj|solutionrelative:bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B25DDD1F-9D32-48A7-A664-05393FE52603}|Tutorial01.csproj|c:\\users\\notno\\source\\repos\\tutorial01\\duck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B25DDD1F-9D32-48A7-A664-05393FE52603}|Tutorial01.csproj|d:\\gits\\jj_tuts_01\\tutorial01\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B25DDD1F-9D32-48A7-A664-05393FE52603}|Tutorial01.csproj|solutionrelative:animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B25DDD1F-9D32-48A7-A664-05393FE52603}|Tutorial01.csproj|d:\\gits\\jj_tuts_01\\tutorial01\\duck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B25DDD1F-9D32-48A7-A664-05393FE52603}|Tutorial01.csproj|solutionrelative:duck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B25DDD1F-9D32-48A7-A664-05393FE52603}|Tutorial01.csproj|c:\\users\\notno\\source\\repos\\tutorial01\\cow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B25DDD1F-9D32-48A7-A664-05393FE52603}|Tutorial01.csproj|solutionrelative:cow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B25DDD1F-9D32-48A7-A664-05393FE52603}|Tutorial01.csproj|d:\\gits\\jj_tuts_01\\tutorial01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B25DDD1F-9D32-48A7-A664-05393FE52603}|Tutorial01.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B25DDD1F-9D32-48A7-A664-05393FE52603}|Tutorial01.csproj|c:\\users\\notno\\source\\repos\\tutorial01\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B25DDD1F-9D32-48A7-A664-05393FE52603}|Tutorial01.csproj|solutionrelative:animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B25DDD1F-9D32-48A7-A664-05393FE52603}|Tutorial01.csproj|d:\\gits\\jj_tuts_01\\tutorial01\\cow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B25DDD1F-9D32-48A7-A664-05393FE52603}|Tutorial01.csproj|solutionrelative:cow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,56 +30,68 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "Bird.cs",
+              "DocumentMoniker": "D:\\gits\\JJ_Tuts_01\\Tutorial01\\Bird.cs",
+              "RelativeDocumentMoniker": "Bird.cs",
+              "ToolTip": "D:\\gits\\JJ_Tuts_01\\Tutorial01\\Bird.cs",
+              "RelativeToolTip": "Bird.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T22:09:16.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Cow.cs",
-              "DocumentMoniker": "C:\\Users\\notno\\source\\repos\\Tutorial01\\Cow.cs",
+              "DocumentMoniker": "D:\\gits\\JJ_Tuts_01\\Tutorial01\\Cow.cs",
               "RelativeDocumentMoniker": "Cow.cs",
-              "ToolTip": "C:\\Users\\notno\\source\\repos\\Tutorial01\\Cow.cs",
+              "ToolTip": "D:\\gits\\JJ_Tuts_01\\Tutorial01\\Cow.cs",
               "RelativeToolTip": "Cow.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-14T22:10:58.024Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Duck.cs",
-              "DocumentMoniker": "C:\\Users\\notno\\source\\repos\\Tutorial01\\Duck.cs",
+              "DocumentMoniker": "D:\\gits\\JJ_Tuts_01\\Tutorial01\\Duck.cs",
               "RelativeDocumentMoniker": "Duck.cs",
-              "ToolTip": "C:\\Users\\notno\\source\\repos\\Tutorial01\\Duck.cs",
+              "ToolTip": "D:\\gits\\JJ_Tuts_01\\Tutorial01\\Duck.cs",
               "RelativeToolTip": "Duck.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-14T22:09:48.445Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Animal.cs",
-              "DocumentMoniker": "C:\\Users\\notno\\source\\repos\\Tutorial01\\Animal.cs",
+              "DocumentMoniker": "D:\\gits\\JJ_Tuts_01\\Tutorial01\\Animal.cs",
               "RelativeDocumentMoniker": "Animal.cs",
-              "ToolTip": "C:\\Users\\notno\\source\\repos\\Tutorial01\\Animal.cs",
+              "ToolTip": "D:\\gits\\JJ_Tuts_01\\Tutorial01\\Animal.cs",
               "RelativeToolTip": "Animal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-14T22:07:11.374Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\notno\\source\\repos\\Tutorial01\\Program.cs",
+              "DocumentMoniker": "D:\\gits\\JJ_Tuts_01\\Tutorial01\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\notno\\source\\repos\\Tutorial01\\Program.cs",
+              "ToolTip": "D:\\gits\\JJ_Tuts_01\\Tutorial01\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T22:06:10.603Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-14T22:06:10.603Z"
             }
           ]
         }

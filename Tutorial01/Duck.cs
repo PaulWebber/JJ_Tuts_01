@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Tutorial01
 {
-    public class Duck : Animal
+    public class Duck : Bird
     {
         public override void Talk()
         {
@@ -14,9 +14,14 @@ namespace Tutorial01
 
         }
 
-        public void Fly()
+        public override void Fly()
         {
             Console.WriteLine("Duck is flying");
+        }
+
+        public override void Walk()
+        {
+            Console.WriteLine("Walk on two feet");
         }
     }
     
