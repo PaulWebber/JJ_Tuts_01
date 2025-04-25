@@ -18,5 +18,14 @@ namespace Tutorial01
             Console.WriteLine("walks like a bird");
         }
 
+        public override int Walk(int numOfLegs)
+        {
+            throw new NotImplementedException();
+        }
+
+        public override void Walk(double NumOfWhiskers)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

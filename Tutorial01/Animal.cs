@@ -6,7 +6,18 @@ using System.Threading.Tasks;
 
 namespace Tutorial01
 {
-    public abstract class Animal
+
+    public interface IAnimal
+    {
+        void Talk();
+        void Walk();
+
+        int Walk(int numOfLegs);
+
+        void Walk(double NumOfWhiskers);
+    }
+
+    public abstract class Animal : IAnimal
     {
         public virtual void Talk()
         {
@@ -14,12 +25,15 @@ namespace Tutorial01
 
         }
 
-        //public virtual void Walk()
-        //{
-        //    Console.WriteLine("walk like an animal");
-        //}
+        public void Walk()
+        {
+            Console.WriteLine("walk like an animal");
+        }
 
-        public abstract void Walk();
+        public abstract int Walk(int numOfLegs);
+
+        public abstract void Walk(double NumOfWhiskers);
+        
 
     }
 }

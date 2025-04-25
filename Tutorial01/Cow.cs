@@ -18,5 +18,20 @@ namespace Tutorial01
         {
             Console.WriteLine("walks on four legs");
         }
+
+        public void Milk()
+        {
+            Console.WriteLine("milk me");
+        }
+
+        public override int Walk(int numOfLegs)
+        {
+            throw new NotImplementedException();
+        }
+
+        public override void Walk(double NumOfWhiskers)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
