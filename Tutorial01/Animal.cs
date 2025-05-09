@@ -34,6 +34,5 @@ namespace Tutorial01
 
         public abstract void Walk(double NumOfWhiskers);
         
-
     }
 }
